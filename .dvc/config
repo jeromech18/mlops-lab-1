@@ -2,3 +2,5 @@
     remote = origin
 ['remote "origin"']
     url = https://dagshub.com/jeromech18/mlops-lab-1.dvc
+['remote "local_storage"']
+    url = C:\Users\User\Desktop\lab1
